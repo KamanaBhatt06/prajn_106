@@ -1,4 +1,4 @@
 # prajn_106
 wdp project work
-kamna authod
+kamna author
 working on my project right now 
